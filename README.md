@@ -1,1 +1,1 @@
-# This is a sample_node_docker_app
+# This is a simple node application used to learn docker and its concepts.
